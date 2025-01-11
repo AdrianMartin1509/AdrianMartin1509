@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my GitHub Page.
-I am a german Software and Systems Engineer trying to improve my skills working on hobby projects.
+I am a german Software and Systems Engineer trying to improve my skills. I am following courses and working on hobby projects.
 <!--
 **AdrianMartin1509/AdrianMartin1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
